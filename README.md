@@ -58,3 +58,5 @@ Java UUID (Universally Unique Identifier) class is part of java.util package. Ja
 有序 性能高
 缺点
 依赖于时间协调 存在时钟回拨风险
+
+
